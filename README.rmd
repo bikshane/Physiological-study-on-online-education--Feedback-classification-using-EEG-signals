@@ -1,0 +1,17 @@
+# Physiological study on online education - Feedback classification using EEG signals
+> The EEG data.csv was obatined from kaggle.com.
+  This project was done as part of my TAMU course ISEN 630 - Human Operator in Complex Systems.
+  The details of this reseach project can be found the Report.pdf
+  
+### Summary
+
+- Physiological feedback acquired by students while watching online educational videos was analyzed to
+assess the state of confusion.
+- EEG data from a single electrode headset device was taken as input to a classifier with binary response.
+- A comparative evaluation of different popular classifiers was reported. The
+chosen technique showed a remarkable improvement in cross validated classification rate from previous
+study on the same dataset.
+- The classifier performed better when considering only theta and alpha bands in
+the EEG as predictors.
+- The study demonstrates the effectiveness and potential of small scale EEG devices
+for assessing mental state during learning processes.
