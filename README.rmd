@@ -8,10 +8,9 @@
 - Physiological feedback acquired by students while watching online educational videos was analyzed to
 assess the state of confusion.
 - EEG data from a single electrode headset device was taken as input to a classifier with binary response.
-- A comparative evaluation of different popular classifiers was reported. The
-chosen technique showed a remarkable improvement in cross validated classification rate from previous
-study on the same dataset.
-- The classifier performed better when considering only theta and alpha bands in
-the EEG as predictors.
-- The study demonstrates the effectiveness and potential of small scale EEG devices
-for assessing mental state during learning processes.
+- A comparative evaluation of different popular classifiers was reported.
+- The chosen technique showed a remarkable improvement in cross validated classification rate from previous
+study on the same dataset. 
+http://www.cs.cmu.edu/~kkchang/paper/WangEtAl.2013.AIED.EEG-MOOC.pdf
+- The classifier performed better when considering only theta and alpha bands in the EEG as predictors.
+- The study demonstrates the effectiveness and potential of small scale EEG devices for assessing mental state during learning processes.
